@@ -325,6 +325,7 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+    <Compile Include="Assets\UdacityVR\Scripts\Audio.cs" />
     <Compile Include="Assets\UdacityVR\Scripts\Extras\Teleporter.cs" />
     <Compile Include="Assets\UdacityVR\Scripts\TriggerAnimation.cs" />
   </ItemGroup>
